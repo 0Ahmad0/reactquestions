@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactquestions/static/css/main.7e113153.css",
+    "main.js": "/reactquestions/static/js/main.81eee094.js",
+    "index.html": "/reactquestions/index.html",
+    "main.7e113153.css.map": "/reactquestions/static/css/main.7e113153.css.map",
+    "main.81eee094.js.map": "/reactquestions/static/js/main.81eee094.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e113153.css",
+    "static/js/main.81eee094.js"
+  ]
+}
